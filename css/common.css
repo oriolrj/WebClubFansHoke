@@ -1,0 +1,37 @@
+#titol{
+  font-size: 50px;
+  color: rgba(0, 110, 255, 0.849);
+}
+
+body {
+  background-color: lightblue;
+  margin-left: 480px;
+  margin-right: 530px;;
+}
+
+#menu{
+  font-size: 26px;
+  font-weight: bold;
+  background-color: pink;
+}
+
+#menu2{
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 70px;
+}
+
+footer{
+  background-color: pink;
+  margin-top: 25px;
+}
+
+#nom{
+  color: rgb(12, 139, 50);
+  margin-left: 140px;
+}
+
+h2{
+  color: rgb(245, 14, 14);
+  margin-left: 180px;
+}

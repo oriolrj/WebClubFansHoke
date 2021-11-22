@@ -1,0 +1,21 @@
+#foto2{
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+#article{
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 255px;
+    margin-top: -130px;
+}
+
+main{
+    margin-top: 40px;
+}
+
+footer{
+    margin-top: 120px;
+}
